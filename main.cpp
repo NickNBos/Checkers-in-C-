@@ -45,7 +45,7 @@ int main() {
 
     // Introduce rules
     cout << "Welcome to Checkers!" << endl;
-    cout << "This is the meant to be a similar game to actual checkers, though without multi-jumps," << endl;
+    cout << "This is meant to be a similar game to actual checkers, though without multi-jumps," << endl;
     cout << "so the rules are similar: each piece can be moved to either of the open front" << endl;
     cout << "diagonals, or it can jump over an opposing piece if the space beyond is empty." << endl;
     cout << "Beware though, if no moves are possible or a player's pieces run out," << endl;
